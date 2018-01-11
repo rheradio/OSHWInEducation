@@ -5,9 +5,9 @@ The open-source hardware movement is becoming increasingly popular due to the em
 ## Results
 
 The study's results are:
-* A spreadsheet that details our classification.
+* A [spreadsheet](https://github.com/rheradio/OSHWInEducation/blob/master/SpreadSheet.xlsx) that details our classification.
 * Four catalogs that organize the publications according to their:
-  1. Application domain.
-  1. Educational stage.
-  1. Central pedagogical purpose.
-  1. Type of research.
+  1. [Application domain](https://github.com/rheradio/OSHWInEducation/blob/master/KnowledgeArea.pdf).
+  1. [Educational stage](https://github.com/rheradio/OSHWInEducation/blob/master/EducationalStage.pdf).
+  1. [Central pedagogical purpose](https://github.com/rheradio/OSHWInEducation/blob/master/MainPurpose.pdf).
+  1. [Type of research](https://github.com/rheradio/OSHWInEducation/blob/master/TypeOfResearch.pdf).
