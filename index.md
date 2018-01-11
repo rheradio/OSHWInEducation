@@ -7,7 +7,7 @@ The open-source hardware movement is becoming increasingly popular due to the em
 The study's results are:
 * A spreadsheet that details our classification.
 * Four catalogs that organize the publications according to their:
-  * Application domain.
-  * Educational stage.
-  * Central pedagogical purpose.
-  * Type of research.
+  1. Application domain.
+  1. Educational stage.
+  1. Central pedagogical purpose.
+  1. Type of research.
