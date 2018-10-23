@@ -11,7 +11,7 @@ We have conducted a systematic mapping study to overview and classify the litera
 
 The study's results are:
 * A [bibliographic database](https://github.com/rheradio/OSHWInEducation/blob/master/references.bib) that includes the information of all analyzed primary studies.
-* A [spreadsheet](https://github.com/rheradio/OSHWInEducation/blob/master/SpreadSheet.xlsx) that details our classification.
+* A [spreadsheet](https://github.com/rheradio/OSHWInEducation/blob/master/SpreadSheet.csv) that details our classification.
 * Four catalogs that organize the publications according to their:
   1. [Application domain](https://github.com/rheradio/OSHWInEducation/blob/master/KnowledgeArea.pdf).
   1. [Educational stage](https://github.com/rheradio/OSHWInEducation/blob/master/EducationalStage.pdf).
